@@ -5,7 +5,7 @@ import { collection, onSnapshot } from "firebase/firestore";
 import { motion, useMotionValue, useTransform, animate } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 
-const TOTAL_SPOTS = 500;
+const TOTAL_SPOTS = 700;
 const BASE_COUNT = 300; // starting point
 
 function ProgressBar() {
