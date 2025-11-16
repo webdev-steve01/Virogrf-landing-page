@@ -30,7 +30,7 @@ function Testimonials() {
             <div className="founding-member-card">
               <div className="headline">
                 <h2 id="founding-member-title" className="section-title founding-member-title">
-                  Be Remembered as One of the First 500
+                  Be Remembered as One of the First 1000
                 </h2>
                 <p className="match-desc match-description text-dark">
                   Your name will go down as part of the community that started

@@ -18,7 +18,7 @@ function Waitlist() {
           <div className="waitlist-child">
             <div>
               <div className="waitlist-badge badge" role="complementary">
-                Only 500 spots + founding cohort
+                Only 1000 spots + founding cohort
               </div>
               <h2 id="waitlist-title" className="waitlist-title">
                 Don&apos;t Just Dream.{" "}
