@@ -99,7 +99,9 @@ function Form() {
               disabled={isSubmitting}
               className="waitlist-btn"
             >
-              {isSubmitting ? "Saving..." : "Join the waitlist – 500 spot left"}
+              {isSubmitting
+                ? "Saving..."
+                : "Join the waitlist - few spots left"}
             </button>
 
             <p className="privacy-note">
